@@ -9,9 +9,17 @@ In this project a static website that includes HTML, CSS, and JavaScript files a
 - Files uploaded to this bucket
 - AWS's content distribution service(CloudFront) is used to speed up content delivery
 
-## CloudFront endpoint URL
+# CloudFront Domain Name
 
 https://d3bq95id0x46ww.cloudfront.net/
+
+# Website-endpoint
+
+http://my-915483736808-bucket.s3-website-us-east-1.amazonaws.com/
+
+# S3 Object URL
+
+https://my-915483736808-bucket.s3.amazonaws.com/index.html.
 
 👤 **Mengstu Fentaw**
 
